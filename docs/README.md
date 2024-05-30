@@ -67,5 +67,5 @@ net start batteryAlert
 Contributions to the project are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request on GitHub.
 ## License
 
-This project is licensed under the [MIT License](https://github.com/Mobinshahidi/battery-percentage/blob/master/LICENSE).
+This project is licensed under the [MIT License](https://github.com/Mobinshahidi/battery-percentage/blob/main/docs/LICENSE).
 
